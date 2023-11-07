@@ -23,4 +23,4 @@ jobs:
           server: https://sveltekit.muharremcandan.tech
           app: 'sveltekit'
           token: '${{ secrets.APP_TOKEN }}'
-          image: 'ghcr.io/MuharremCandan/sveltekit: latest'
+          image: 'ghcr.io/MuharremCandan/sveltekit:latest'
